@@ -71,6 +71,14 @@ bash
 python main.py
 ```
 ---
+## 📌 Observações
+
+- Projeto desenvolvido para fins acadêmicos
+- Banco de dados local (SQLite)
+- Não utiliza dados reais
+- Estrutura preparada para futuras melhorias
+  
+---
 
 ## 👤 Autor
 ### Marcos Pedro
